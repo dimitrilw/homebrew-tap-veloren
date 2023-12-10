@@ -2,8 +2,6 @@
 
 Homebrew tap for Veloren's Airshipper.
 
-# Fermyon Tap
-
 ## How do I install this formula?
 
 ```sh
